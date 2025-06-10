@@ -1,0 +1,32 @@
+@model IEnumerable<HotelBookingMVC.Models.Hotel>
+
+<h2>Hotels</h2>
+
+<p><a asp-action="Create" class="btn btn-success">Add Hotel</a></p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>Country</th>
+            <th>Rating</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.City</td>
+                <td>@item.Country</td>
+                <td>@item.Rating</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.HotelId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.HotelId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
