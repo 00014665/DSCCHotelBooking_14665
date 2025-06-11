@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HotelBookingAPI
+build_property.RootNamespace = HotelBookingAPI
+build_property.ProjectDir = E:\Users\00012907\Downloads\HotelBooking (1)\HotelBooking\HotelBookingAPI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Users\00012907\Downloads\HotelBooking (1)\HotelBooking\HotelBookingAPI
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Users/00012907/Downloads/HotelBooking (1)/HotelBooking/HotelBookingAPI/HotelBookingMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SG90ZWxCb29raW5nTVZDXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/00012907/Downloads/HotelBooking (1)/HotelBooking/HotelBookingAPI/HotelBookingMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SG90ZWxCb29raW5nTVZDXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
